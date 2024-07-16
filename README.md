@@ -49,8 +49,8 @@ Here's a breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
 -**Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-![Top Paying Roles](project_sql\assets\Top_paying_roles.png)
-*Bar chart was used to visualize the top data analyst salaries; "Google's Gemini" was used to generate this graph from my SQL query outcome.*
+![Top Paying Roles](assets\Top_paying_roles.png)
+*Bar1 chart was used to visualize the top data analyst salaries; "Google's Gemini" was used to generate this graph from my SQL query outcome.*
 
 
 **2. Skills for Top Paying Jobs**
@@ -184,7 +184,7 @@ Here's the breakdown of the results for top paying skills for Data Analysts:
 - **Cloud Computing Expertise:** Familiarity with cloud and data engineering tools (Elasticsearrch, Databricks, GCP) underscores the growing importance of cloud-based analytics environment, suggesting that cloud proficiency significantly boosts earning potential in data analytics.
 
 *Below's the chart showing average salary for the top 10 paying Data Analyst skills:*
-![Top paying skills](project_sql\assets\Top_paying_skills.png)
+![Top paying skills](assets\Top_paying_skills.png)
 
 
 **5. Most Optimal Skills To Learn**
